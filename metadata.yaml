@@ -1,4 +1,5 @@
 _repo: Worth-While-Stories-for-Every-Day_49240
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -7,7 +8,12 @@ contributor:
       deathdate: 1934
       gutenberg_agent_id: '45215'
       url: http://www.gutenberg.org/2009/agents/45215
+covers:
+- cover_type: archival
+  image_path: 49240-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49240#Worth-While-Stories-for-Every-Day
 gutenberg_issued: '2015-06-20'
 gutenberg_type: Text
 identifiers:
